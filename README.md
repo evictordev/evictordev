@@ -54,7 +54,5 @@ Como fundador da **Dev Digital**, atuo no desenvolvimento de soluções digitais
 
 ## Contato
 
-Estou aberto a conversas sobre oportunidades, projetos e colaborações em engenharia de software.
-
 - **LinkedIn:** (https://www.linkedin.com/in/emanuel-victor-3657aa346/)
 - **E-mail:** (mailto:emanuelpsn07@gmail.com)
